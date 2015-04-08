@@ -1,5 +1,7 @@
 # jCreate #
 
+Performance: http://jsperf.com/jcreate-vs-dom-vs-jquery
+
 jCreate is a JavaScript library to simplify creation of DOM elements. Think of it as a JSON form of HTML.
 
 In the example below, `source` is an object that defines a `<ul>` and three `<li>`. When passed to the `jCreate` function the `result` is `<ul>` DOM element with three `<li>`.

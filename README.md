@@ -1,5 +1,8 @@
 # jCreate #
 
+# THIS PROJECT IS DEPRECATED
+jCreate is no longer maintained, and **this** repository will be removed from GitHub on or after September 6, 2017.
+
 Performance: http://jsperf.com/jcreate-vs-dom-vs-jquery
 
 jCreate is a JavaScript library to simplify creation of DOM elements. Think of it as a JSON form of HTML.
